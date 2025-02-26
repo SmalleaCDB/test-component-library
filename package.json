@@ -1,0 +1,28 @@
+{
+  "name": "component-library-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@chromatic-com/storybook": "^3.2.5",
+    "@storybook/addon-essentials": "^8.6.0",
+    "@storybook/addon-interactions": "^8.6.0",
+    "@storybook/addon-onboarding": "^8.6.0",
+    "@storybook/blocks": "^8.6.0",
+    "@storybook/nextjs": "^8.6.0",
+    "@storybook/react": "^8.6.0",
+    "@storybook/test": "^8.6.0",
+    "storybook": "^8.6.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  }
+}
