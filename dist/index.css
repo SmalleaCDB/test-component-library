@@ -1,0 +1,14 @@
+/* src/components/NewButton.module.css */
+.NewButton-module_button__f0Yj7 {
+    padding: 10px 20px;
+    background-color: gray;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .NewButton-module_button__f0Yj7:hover {
+    background-color: grey;
+  }
+  

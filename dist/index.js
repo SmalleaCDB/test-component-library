@@ -1,0 +1,1 @@
+"use strict";function e(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}Object.defineProperty(exports,"__esModule",{value:!0});var t=e(require("react")),u="NewButton-module_button__f0Yj7";exports.default=function(e){var r=e.label,n=e.onClick;return t.default.createElement("button",{className:u,onClick:n},r)};

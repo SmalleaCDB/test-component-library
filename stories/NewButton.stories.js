@@ -1,5 +1,5 @@
 import React from 'react';
-import NewButton from './NewButton';
+import NewButton from '../src/components/NewButton';
 
 export default {
   title: 'NewButton',
